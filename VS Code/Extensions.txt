@@ -1,0 +1,7 @@
+Auto Close Tag : Jun Han
+Auto Rename Tag : Jun Han
+C/C++ : Microsoft
+Code Runner : Jun Han
+Color Highlight :  Sergii Naumov
+ES7 React/Redux/GraphQL/React-Native snippets : dsznajder
+HTML Boilerplate : sidthesloth
