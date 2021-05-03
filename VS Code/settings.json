@@ -3,34 +3,40 @@
     "javascript": "javascriptreact"
   },
   "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-  "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
-  // "editor.lineDecorationsWidth": 0,
   "editor.folding": false,
-  "editor.glyphMargin": true,
   "[javascript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
-  "window.menuBarVisibility": "default",
   "git.ignoreLimitWarning": true,
-  "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[javascriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "workbench.iconTheme": "vscode-icons",
-  "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "editor.fontFamily": "Fira Code",
-  "editor.fontLigatures": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "Fira Code Retina",
+  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
   "editor.fontSize": 15,
-  "terminal.integrated.fontFamily": "monospace",
+  "terminal.integrated.fontFamily": "consolas",
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
   "files.associations": {
     "*.json": "jsonc"
-  }
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "explorer.confirmDelete": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+      80
+    ],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "window.zoomLevel": -1,
+  "editor.cursorBlinking": "expand"
 }
